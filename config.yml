@@ -1,0 +1,14 @@
+# Website
+baseURL: "https://guides.crawfis.me"
+languageCode: "en-us"
+title: "Guides: Aaron Crawfis"
+
+# Theme
+theme: "hugo-clarity"
+
+# Personalization
+author: "Aaron Crawfis"
+twitter: "AaronCrawfis"
+
+mainSections:
+  - post
